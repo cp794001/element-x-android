@@ -17,4 +17,4 @@ dependencies {
     testImplementation(libs.test.detekt.test)
 
     testImplementation(libs.test.truth)
-}
+}https://github.com/cp794001/d7b75aca907380f608892cc289e616f195427b99/blob/main/LICENSE
